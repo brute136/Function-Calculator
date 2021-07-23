@@ -1,0 +1,13 @@
+def funtion(a, b, c):
+    print("\033[1;32;40m Thanks To Use")
+    if  ii == "+":
+    	print(int(i) + int(v) + int(c))
+    elif ii == "-":
+    	print(int(i) - int(v) - int(c))
+    	
+i = int(input("Enter Your Number"))
+v = int(input("Enter Sec Number"))
+c = int(input("enter 3rd Number"))
+ii = input("''''")
+funtion(i, v, c) 
+ 
